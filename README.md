@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ishmaheel011
-- 👀 I’m interested in CS
 - 🌱 I’m currently learning process scheduling
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ishmaheel01@gmail.com
 
 <!---
