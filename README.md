@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ishmaheel011
-- 🌱 I’m currently learning process scheduling
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ishmaheel01@gmail.com
 
 <!---
